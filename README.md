@@ -1,14 +1,6 @@
 # SpotLight_Saver
 
-Image Count: 708
-
-
-
-
-
-
-
-
+Image Count: 707
 
 
 
