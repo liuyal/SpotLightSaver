@@ -1,6 +1,6 @@
 # SpotLight_Saver
 
-Image Count: 1252
+Image Count: 1253
 
 Size: 0.88 GB
 
