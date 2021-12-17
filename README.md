@@ -2,6 +2,6 @@
 
 Image Count: 1324
 
-Size: 0.969 GB
+Size: 0.973 GB
 
 [Script Link](https://github.com/liuyal/Archive/blob/master/Python/Utilities/Miscellaneous/spotlight_saver.py)
